@@ -133,6 +133,7 @@
   .navbar-fixed-bottom .container {
     width: 1170px;
   }
+  .container{margin-top:250px}
   .span12 {
     width: 1170px;
   }
